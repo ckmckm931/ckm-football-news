@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Football News</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>⚽ Football News Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Premier League</a></li>
+        <li><a href="#">La Liga</a></li>
+        <li><a href="#">Transfers</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="featured">
+      <img src="https://via.placeholder.com/800x400" alt="Featured Match">
+      <div class="featured-text">
+        <h2>Big Match Recap: Arsenal vs Manchester City</h2>
+        <p>Arsenal edges past City in a thrilling 2-1 battle at the Emirates. Read the full match report now.</p>
+      </div>
+    </section>
+    <section class="news">
+      <article>
+        <h3>Transfer Rumors: Mbappé to Real Madrid?</h3>
+        <p>Sources suggest Kylian Mbappé may finally make the long-anticipated move to Spain...</p>
+      </article>
+      <article>
+        <h3>Premier League Roundup: Week 36</h3>
+        <p>Highlights from all the action-packed games this week, including a shock win by Brentford...</p>
+      </article>
+      <article>
+        <h3>Top 5 Goals of the Week</h3>
+        <p>Check out the most incredible goals scored across Europe's top leagues...</p>
+      </article>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Football News Hub. All rights reserved.</p>
+  </footer>
+</body>
+</html>
